@@ -1,0 +1,6 @@
+#generate reports
+allure-pytest
+#library to make http requests
+requests
+#framework
+pytest
